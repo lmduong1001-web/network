@@ -27,7 +27,7 @@ def download_latest_videos(driver, profile_id, limit=10):
 
     video_sources = video_sources[:limit]
 
-    folder = "downloads/0"
+    folder = "downloads"
     os.makedirs(folder, exist_ok=True)
     for i, link in enumerate(video_sources, 1):
         ext = link.split("?")[0].split(".")[-1]
