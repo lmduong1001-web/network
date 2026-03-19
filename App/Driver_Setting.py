@@ -4,7 +4,6 @@ import json
 import time
 import pyautogui
 import winreg
-
 def get_chrome_version():
     try:
         key = winreg.OpenKey(
