@@ -121,7 +121,20 @@ def create_tab(notebook):
 
                 for pid in profiles:
                     print(f"➡ Profile {pid}")
-                    run_with_driver(pid, post_text, content, 15)
+
+                    # 👉 Lấy free_line từ credits
+                    info = credits_data.get(str(pid), {})
+                    free_line = info.get("free_line", "")
+
+                    # 👉 Extract số trước "free"
+                    try:
+                        free_count = int(free_line.split()[0])
+                    except:
+                        free_count = 0  # nếu lỗi thì cho 0
+
+                    print(f"💰 Free: {free_count}")
+
+                    run_with_driver(pid, post_text, content, round(free_count / 2), pid)
                     time.sleep(2)
 
                 # nghỉ giữa content

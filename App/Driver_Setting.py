@@ -46,8 +46,6 @@ def open_profile(i, website_url, headless=False):
         {"userAgent": user_agent}
     )
 
-    #driver.get("https://sora.chatgpt.com/profile")
-    #time.sleep(10)
     driver.get("https://sora.chatgpt.com/drafts")
-    time.sleep(10)
+    time.sleep(3)
     return driver
