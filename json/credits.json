@@ -1,23 +1,23 @@
 {
     "1": {
-        "free_line": "1 free",
-        "date_line": "More available at 12:34 PM"
+        "free_line": "30 free",
+        "date_line": "More available on Mar 21"
     },
     "2": {
-        "free_line": "1 free",
-        "date_line": "More available at 2:03 PM"
+        "free_line": "10 free",
+        "date_line": "More available on Mar 21"
     },
     "3": {
-        "free_line": "1 free",
-        "date_line": "More available at 2:22 PM"
+        "free_line": "10 free",
+        "date_line": "More available on Mar 21"
     },
     "5": {
-        "free_line": "1 free",
-        "date_line": "More available at 3:19 PM"
+        "free_line": "10 free",
+        "date_line": "More available on Mar 21"
     },
     "6": {
-        "free_line": "1 free",
-        "date_line": "More available at 4:00 PM"
+        "free_line": "10 free",
+        "date_line": "More available on Mar 21"
     },
     "7": {
         "free_line": "1 free",
@@ -36,7 +36,7 @@
         "date_line": "More available on Mar 21"
     },
     "4": {
-        "free_line": "1 free",
-        "date_line": "More available at 2:23 PM"
+        "free_line": "10 free",
+        "date_line": "More available on Mar 21"
     }
 }
