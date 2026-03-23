@@ -1,0 +1,225 @@
+🎬 VEO 3 PROMPT – FINAL MASTER (16s CONTINUOUS FROM 2×8s | CHEST CAM + REACTION AUDIO)
+
+Title: “The Golden Monkey King Beneath the Sea…”
+
+🔒 CORE RULE (CRITICAL)
+
+Final output must feel like ONE continuous 16-second recording.
+
+Generated as:
+
+Clip 1: first 8 seconds
+Clip 2: next 8 seconds
+
+👉 Clip 2 MUST perfectly continue Clip 1
+
+Same position
+Same motion direction
+Same hand placement continuity
+Same lighting & particles
+
+❌ No jump
+❌ No reset
+❌ No time skip
+
+🎥 CAMERA (CHEST-MOUNTED POV)
+
+Camera attached to diver’s chest
+No face visible
+Only hands/arms appear
+
+Motion:
+
+Driven by full body movement
+Slow underwater inertia
+Constant subtle drift
+🔇 AUDIO (STRICT – UPDATED)
+
+No speech
+No music
+
+Only natural underwater sounds:
+
+Oxygen breathing (primary layer, continuous)
+Bubbles
+Water movement
+Tool scraping
+
+👉 + ADD REACTION AUDIO (IMPORTANT):
+
+Muffled underwater scream/gasp (female)
+
+Must sound:
+
+Air-bubbled
+Distorted through regulator
+Short, instinctive (NOT clear speech)
+
+❌ No clear words
+❌ No cinematic scream
+✔️ Must feel physically accurate underwater
+
+👤 CHARACTER (IMPLIED ONLY)
+
+Female diver with scuba gear
+
+Visible:
+
+Hands
+Arms
+Occasional tool
+🐒 OBJECT (UPDATED)
+
+Ancient statue of Monkey King (Sun Wukong) trapped in rock crevice
+
+Visible features (gradually revealed):
+
+Stone face with sharp eyes
+Crown/headband (kim cô)
+Shoulder/upper body posture of a warrior
+Long staff (Ruyi Jingu Bang) partially buried
+
+Covered with:
+
+Coral
+Algae
+Marine buildup
+
+Heavy, immobile
+
+🌊 SETTING
+
+Deep ocean floor
+
+Low light, blue-green tone
+Floating particles everywhere
+Slight current movement
+💡 LIGHTING
+
+Natural underwater rays
+Soft, diffused
+
+👉 Golden light appears ONLY when statue surface is revealed
+
+⏱ FULL TIMELINE (UPDATED WITH REACTIONS)
+🎥 CLIP 1 (0–8s) – DISCOVERY
+0–2s (DRIFTING ENTRY)
+
+Camera slowly moves forward near seabed
+
+Particles drifting
+Calm breathing
+2–4s (SHAPE DETECTED)
+
+Large humanoid shape between rocks
+
+Slight camera tilt (body reaction)
+4–6s (RECOGNITION + FIRST REACTION 🔊)
+
+Details become visible:
+
+Monkey-like stone face
+Crown outline
+Part of staff embedded in rock
+
+👉 ADD AUDIO:
+
+Short muffled gasp / half-scream
+Slightly stronger bubble release
+Breathing becomes faster
+6–8s (FIRST CONTACT – TRANSITION POINT)
+
+Hands enter frame
+
+Gently touches statue surface
+
+Effects:
+
+Algae shifts
+Dust particles rise
+
+👉 END STATE MUST BE:
+
+Hand still near Monkey King statue
+Camera very close to surface
+Particles floating mid-water
+🎥 CLIP 2 (8–16s) – CONTINUATION (NO RESET)
+
+⚠️ START MUST MATCH CLIP 1 END EXACTLY
+
+Same hand position
+Same distance
+Same particle state
+
+8–10s (CONTINUOUS CONTACT)
+
+Hand still touching
+
+Subtle natural movement
+Breathing steady but curious
+10–13s (SCRAPING ACTION)
+
+Tool enters frame
+
+Slow scraping motion
+
+Effects:
+
+Debris clouds
+Particles spread naturally
+
+Audio:
+
+Scraping + bubbles
+13–15s (GOLD EMERGING + BIG REACTION 🔊)
+
+Under removed layer:
+
+→ Golden surface appears
+
+Visible:
+
+Part of Monkey King’s face glowing
+Golden staff reflection
+
+Light interacts with particles
+
+👉 ADD AUDIO (STRONGER THAN FIRST):
+
+Muffled excited scream/gasp
+More intense bubbles
+Breathing spike
+15–16s (REACTION – MICRO MOVEMENT)
+
+More gold revealed
+
+Camera reacts:
+
+Slight forward push
+Small controlled underwater shake
+
+👉 Hand pauses near glowing surface
+
+👉 Breathing faster but controlled
+
+🎭 EMOTIONAL FLOW (NO VOICE)
+
+Curiosity
+→ Discovery
+→ Shock (gasp)
+→ Engagement
+→ Surprise (stronger gasp)
+
+❌ ANTI-FAKE RULES
+
+No fast motion
+No instant acceleration
+No clipping
+No floating errors
+No lighting jump between clips
+
+👉 Clip 2 must NOT feel like a new shot
+
+🎯 FINAL GOAL
+
+A seamless 16-second underwater POV recording (built from two 8s clips) showing a diver discovering and uncovering a hidden golden Monkey King statue — enhanced with physically accurate muffled underwater reactions, perfect motion continuity, and immersive natural audio.
