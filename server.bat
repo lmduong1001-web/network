@@ -2,7 +2,7 @@
 cd /d %~dp0
 
 git add .
-git commit -m "network"
+git commit -m "update"
 git push origin master
 
 echo DONE!
