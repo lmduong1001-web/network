@@ -1,4 +1,7 @@
 @echo off
 cd /d %~dp0
-git pull
+
+git fetch origin
+git reset --hard origin/master
+
 pause

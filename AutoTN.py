@@ -11,7 +11,7 @@ with open(file_path, "r", encoding="utf-8") as f:
     content = f.read()
 
 # ===== Copy vào clipboard =====
-pyperclip.copy(content)
+
 time.sleep(10)
 def Auto():
 # ===== Delay để bạn chuyển sang màn hình cần paste =====
@@ -48,7 +48,8 @@ def Auto():
     pyautogui.click(596, 552)
     time.sleep(1)
     pyautogui.click(596, 552)
-    # ===== Paste (Ctrl + V) =====
+    time.sleep(1)
+    pyperclip.copy(content)
     pyautogui.hotkey("ctrl", "v")
     time.sleep(1)
     pyautogui.scroll(-1000)
