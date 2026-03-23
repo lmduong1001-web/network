@@ -12,8 +12,18 @@ def post_text(driver, text, solan, pid):
     max_retry = 3
     attempt = 0
 
+    element = driver.find_element(By.XPATH, "//span[contains(text(),'Settings')]/ancestor::button")
+    element.click()
+    time.sleep(1)
+    element = driver.find_element(By.XPATH, "(//div[@role='menuitem'])[2]")
+    element.click()
+    time.sleep(1)
+    element = driver.find_element(By.XPATH, "//div[@role='group']//div[@role='menuitemradio'][1]")
+    element.click()
+
     while attempt < max_retry:
         try:
+
             print(f"🔄 Thử lần {attempt + 1}")
 
             textarea = WebDriverWait(driver, 10).until(

@@ -1,8 +1,10 @@
 import tkinter as tk
 from tkinter import ttk
 
+
 from tabs import create_tab, download_tab, delete_tab
 from tabs import manual_tab, edit_tab, credit_tab
+
 
 root = tk.Tk()
 root.title("Automation Manager")
