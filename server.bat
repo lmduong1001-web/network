@@ -1,10 +1,12 @@
 @echo off
 cd /d %~dp0
 
+echo ===== ADD & COMMIT =====
 git add .
 git commit -m "update"
-git pull origin master
+
+echo ===== PUSH =====
 git push origin master
 
-echo DONE!
+echo ===== DONE =====
 pause
