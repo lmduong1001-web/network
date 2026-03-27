@@ -26,9 +26,9 @@ def Auto():
     time.sleep(1)
     pyautogui.click(550, 362)
     time.sleep(1)
-    pyautogui.moveTo(437, 574)
+    pyautogui.moveTo(350, 521)
     time.sleep(1)
-    pyautogui.click(437, 574)
+    pyautogui.click(350, 521)
     time.sleep(1)
 
     pyautogui.scroll(1000)
