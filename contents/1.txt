@@ -1,11 +1,7 @@
-"Nhân Vật 1: là 1 cô gái mặc áo dài trắng, là 1 hồn ma, ướt át
-Nhân Vật 2: là @lmduong
-Nhân Vật 3: bà lão 80 tuổi mặc đồ bà ba
-Bối Cảnh 1: Trong một ngôi nhà lá giữa trời mưa lớn, Nhân vật 1 đang khóc đưa võng cho 1 em bé ngủ trên võng. 
-Bối Cảnh 2: Nhân vật 2 từ ngoài chạy vào nhà. Nhân Vật 2 nói: Chị ơi cho em trú mưa được không? 
-Bối Cảnh 3: Nhân vật 1 khóc, Nhân vật 1 nói: Sao anh lại đi vào giờ này. 
-Bối Cảnh 4: Nhân vật 2 nói: Chị ơi cho em ngồi 1 lát thôi tạnh em đi liền
-Bối Cảnh 5: Nhân vật 3 cầm 1 cây đèn dầu bước ra khi nhân vật 1 biến mất, Nhân vật 3 nói: cậu làm gì ngồi đây vậy
-Bối Cảnh 5: Nhân vật 1 nói: Nãy con có hỏi chị mặc áo trắng xin được trú mưa
-Bối Cảnh 6: Nhân vật 3 nói: Chị nào"
-
+"Nhân Vật 1: Ông lão bán cá 90 tuổi
+Nhân Vật 2: là @lmduong đeo vàng đầy cổ 30 tuổi
+Bối Cảnh 1: Tại chợ cá, Nhân vật 1 đang ngồi bán cá tại tại chợ sát bờ sông. có mấy cái sửng đựng cá
+Bối Cảnh 2: Nhân vật 2 cùng đàn em đi lại mặc đồ áo khác đen quần bò, Nhân vật 2 chón nạnh nói: Ông già nộp tiền bảo kê đi.
+Bối Cảnh 3: Nhân vật 1 giật mình nói: Cái gì
+Bối Cảnh 4: Nhân vật 1 cầm sửng cá hất vào mặt nhân vật 2. Nhân vật 1 nói: Bảo kê cái đầu tụi bay không làm mà muốn ăn hả, tụi bay chỉ giỏi đi cướp người ta tao 90 tuổi đây nè con phải bán cá nuôi cháu tụi bay trai tráng khỏe mạnh không chịu đi làm muốn xè tay ra xin tiền dân hả Cút
+Bối Cảnh 5: Nhiều người dân cầm điện thoại quay cảnh nhân vật 2 bị nhục nhã rồi bỏ đi"
