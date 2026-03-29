@@ -29,8 +29,8 @@ def Auto(times=1):  # times: số lần chạy
             pyautogui.click()
             time.sleep(1)
 
-            #pyautogui.moveTo(350, 521)
-            pyautogui.moveTo(384, 569)
+            pyautogui.moveTo(350, 521)
+            #pyautogui.moveTo(384, 569)
             time.sleep(1)
             pyautogui.click()
             time.sleep(1)
